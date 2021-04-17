@@ -1,5 +1,5 @@
 {
-    "name": "prettify-symbols-mode",
+    "name": "rfru-prettify-symbols",
     "displayName": "rfru-prettify-symbols",
     "description": "Displays identifiers & symbols using more aesthetically pleasing symbols.",
     "version": "0.4.3",
