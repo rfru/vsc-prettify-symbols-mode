@@ -1,9 +1,9 @@
 {
     "name": "prettify-symbols-mode",
-    "displayName": "Prettify Symbols Mode",
+    "displayName": "rfru-prettify-symbols",
     "description": "Displays identifiers & symbols using more aesthetically pleasing symbols.",
     "version": "0.4.3",
-    "publisher": "siegebell",
+    "publisher": "rfru",
     "license": "MIT license (MIT)",
     "engines": {
         "vscode": "^1.20.0"
